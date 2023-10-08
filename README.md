@@ -23,3 +23,7 @@ Some code might make no sense and/or be overcomplicated, suggestions and non-C++
 ## compiling & flashing
 This project does not have any external requirements, it can be compiled with the [Arm GNU Toolchain](https://developer.arm.com/Tools%20and%20Software/GNU%20Toolchain).<br>
 The output *.hex* can be used with [teensy-loader](https://www.pjrc.com/teensy/loader_win10.html) to flash the flash (lul)
+
+## measurements
+- width 12400/ 20us for PHAT
+- width 2480 / ~4us for PSTV
